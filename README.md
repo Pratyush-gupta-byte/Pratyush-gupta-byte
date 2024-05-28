@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush-gupta-byte&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush-gupta-byte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyush-gupta-byte" alt="pratyush-gupta-byte" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="pratyush-gupta-byte" /></a> </p>
 
 - 🔭 I’m currently working on **Motion detection models**
 
